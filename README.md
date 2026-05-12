@@ -24,7 +24,12 @@ Two working image classification models — one for kitchen utensils, one for co
 Technical assessment covering recursive algorithms, PostgreSQL integration, and statistical computation. Demonstrates practical Python beyond syntax — actual database-connected, logic-heavy code.  
 `Python` `PostgreSQL` `Recursion` `Algorithms`
 
-### 📊 Python Assignments — Bincom Academy
+### 📊 Supermarket Sales EDA — Store Performance Analysis *(Kaggle)*
+Exploratory data analysis on supermarket branch data examining what actually drives sales. Key finding: store area and inventory range correlate more strongly with revenue than daily customer count — counterintuitive and backed by the data.  
+[View on Kaggle](https://www.kaggle.com/code/fortunesagbodje/supermarket-sales-eda-store-performance-analysis)  
+`Python` `Pandas` `Matplotlib` `Seaborn` `EDA`
+
+### 📦 Python Assignments — Bincom Academy
 Progressive coursework assignments covering Python fundamentals through to data processing and web output.  
 `Python` `HTML` `Data Processing`
 
@@ -34,11 +39,11 @@ Progressive coursework assignments covering Python fundamentals through to data 
 - 📚 4th-year Computer Engineering @ FUPRE (CPE, EEE courses)
 - 🐍 Python Developer Programme — Bincom Academy
 - 🔍 Seeking 6-month SIWES/IT placement in Lagos
-- 🌱 Building toward a public TinyML project and data analysis portfolio
+- 🌱 Next: documenting TinyML image classification project (Edge Impulse)
 
 ---
 
 ## 📫 Let's connect
-- 📧 fortunesagbodje@gmail.com
 - 📍 Lagos / Delta State, Nigeria
+- 📧 fortunesagbodje@gmail.com
 - 💼 Open to: SIWES placement · internships · remote entry-level roles
