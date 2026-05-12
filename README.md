@@ -39,5 +39,6 @@ Progressive coursework assignments covering Python fundamentals through to data 
 ---
 
 ## 📫 Let's connect
+- 📧 fortunesagbodje@gmail.com
 - 📍 Lagos / Delta State, Nigeria
 - 💼 Open to: SIWES placement · internships · remote entry-level roles
