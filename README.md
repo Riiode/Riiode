@@ -16,6 +16,11 @@ I build things at the intersection of hardware and software — from image class
 
 ## 🚀 Projects
 
+### 🗄️ Sensory — Personal Media Storage App
+A full-stack web app for uploading, storing, and browsing personal photos and videos. Built with Django, includes user authentication and per-account media libraries. Deployed live on Render.  
+[Live Demo](https://sensory-jfh0.onrender.com) · [GitHub](https://github.com/Riiode/Sensory)  
+`Python` `Django` `User Auth` `File Storage` `Render`
+
 ### 🧠 Object Recognition with TinyML *(Edge Impulse)*
 Two working image classification models — one for kitchen utensils, one for computer peripherals — trained and deployed using Edge Impulse, running live inference via phone camera. Built independently and as part of coursework.  
 `TinyML` `Edge Impulse` `Computer Vision` `Embedded AI`
@@ -45,5 +50,4 @@ Progressive coursework assignments covering Python fundamentals through to data 
 
 ## 📫 Let's connect
 - 📍 Lagos / Delta State, Nigeria
-- 📧 fortunesagbodje@gmail.com
 - 💼 Open to: SIWES placement · internships · remote entry-level roles
